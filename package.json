@@ -2,7 +2,7 @@
     "name": "pixl.vox2mesh",
     "version": "1.0.0",
     "displayName": "Vox2Mesh",
-    "description": "Turns .vox files into meshes.",
+    "description": "A tool that turns MagicaVoxel (.vox) files into meshes.",
     "author": {
         "name": "pixl"
     },
