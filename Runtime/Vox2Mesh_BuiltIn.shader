@@ -1,4 +1,4 @@
-Shader "Custom/Vox2Mesh_BuiltIn"
+Shader "Vox2Mesh/Vox2Mesh_BuiltIn"
 {
     Properties
     {
