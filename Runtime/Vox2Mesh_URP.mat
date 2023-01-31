@@ -7,9 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Vox2Mesh
-  m_Shader: {fileID: -6465566751694194690, guid: 5211e0506ca626346823090706c2ebc1,
-    type: 3}
+  m_Name: Vox2Mesh_URP
+  m_Shader: {fileID: -6465566751694194690, guid: 5211e0506ca626346823090706c2ebc1, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
