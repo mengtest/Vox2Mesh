@@ -33,6 +33,7 @@ namespace Vox2Mesh
         public static readonly int[] triangles = { 0, 1, 2, 0, 2, 3 };
         public static readonly int[] trianglesFlipped = { 1, 2, 3, 1, 3, 0 };
 
+        // [face][vertex]
         public static readonly int3[][] vertices = {
             new int3[] {
                 new int3(0, 0, 0),

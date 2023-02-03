@@ -10,6 +10,12 @@ namespace Vox2Mesh
     /// </summary>
     public class Loader : IVoxLoader
     {
+        public byte[,,] ids;
+        public int sizeX;
+        public int sizeY;
+        public int sizeZ;
+        public uint[] palette;
+
         /// <summary>
         /// Loads data from a .vox file at the specified <paramref name="path"/>.
         /// </summary>
@@ -18,12 +24,6 @@ namespace Vox2Mesh
             var reader = new VoxReader(path, this);
             reader.Read();
         }
-
-        public byte[,,] ids;
-        public int sizeX;
-        public int sizeY;
-        public int sizeZ;
-        public uint[] palette;
 
         public void LoadModel(Int32 sizeX, Int32 sizeY, Int32 sizeZ, byte[,,] data)
         {
