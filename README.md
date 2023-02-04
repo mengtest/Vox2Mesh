@@ -4,10 +4,6 @@
 </div>
 <br/>
 
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Compatibility](#compatibility)
-
 ## Installation
 1. In the Unity Editor, select **Window > Package Manager**.
 2. Press the ➕ icon, then select **Add package from git URL...**
