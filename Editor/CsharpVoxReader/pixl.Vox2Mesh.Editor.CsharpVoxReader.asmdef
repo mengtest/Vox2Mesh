@@ -2,7 +2,9 @@
     "name": "pixl.Vox2Mesh.Editor.CsharpVoxReader",
     "rootNamespace": "",
     "references": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
