@@ -1,5 +1,5 @@
 {
-    "name": "pixl.vox2mesh",
+    "name": "com.pixl.vox2mesh",
     "displayName": "Vox2Mesh",
     "description": "A tool that allows you to use MagicaVoxel (.vox) files inside Unity.",
     "version": "1.0.0",
