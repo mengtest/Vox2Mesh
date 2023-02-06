@@ -12,15 +12,20 @@
 ## Usage
 - After installing the package, all .vox files will behave like meshes automatically.  
 ![Mesh in the project window](./usage_1.png)
-
+<br/>
+<br/>
 - To display a mesh, simply drag it into a Mesh Filter component.  
 ![Mesh Filter component](./usage_2.png)
-
+<br/>
+<br/>
 - To display its colors, add a material to a Mesh Renderer component. The package comes with a different material for each render pipeline.  
-![Mesh Renderer component](./usage_3.png)  
+![Mesh Renderer component](./usage_3.png)
+<br/>
+<br/>
 To see the materials on the list, you may need to press the eye icon in the top right corner of the window.  
 ![Mesh Renderer component](./usage_4.png)
-
+<br/>
+<br/>
 - Vox2Mesh also features a baked ambient occlusion system. You can configure it in the inspector, after selecting a .vox file.  
 ![Mesh Filter component](./usage_5.png)
 
