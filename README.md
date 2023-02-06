@@ -21,10 +21,7 @@
 <br/>
 
 - To display its colors, add a material to a Mesh Renderer component. The package comes with a different material for each render pipeline.  
-![Mesh Renderer component](https://user-images.githubusercontent.com/36799862/217020539-f4f17628-f26f-4b94-8600-6bbdadb5b2be.png)
-<br/>
-<br/>
-
+![Mesh Renderer component](https://user-images.githubusercontent.com/36799862/217020539-f4f17628-f26f-4b94-8600-6bbdadb5b2be.png)  
 To see the materials on the list, you may need to press the eye icon in the top right corner of the window.  
 ![Select material menu](https://user-images.githubusercontent.com/36799862/217020549-44cff390-4749-4424-bafc-25fbfcc76a5d.png)
 <br/>
