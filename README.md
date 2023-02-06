@@ -10,15 +10,21 @@
 3. Paste `https://github.com/pixldev/Vox2Mesh.git`, then press **Add**.
 
 ## Usage
-After installing the package, all .vox files will behave like meshes automatically.
-<br/>\<Image TBA\><br/><br/>
-To display a mesh, simply drag it into a Mesh Filter component.
-<br/>\<Image TBA\><br/><br/>
-To display its colors, add a material to a Mesh Renderer component.
+- After installing the package, all .vox files will behave like meshes automatically.  
+![Mesh in the project window](./usage_1.png)
+
+- To display a mesh, simply drag it into a Mesh Filter component.  
+![Mesh Filter component](./usage_2.png)
+
+- To display its colors, add a material to a Mesh Renderer component.  
+![Mesh Renderer component](./usage_3.png)  
 The package comes with a different material for each render pipeline.
 Their names are `Vox2Mesh_URP`, `Vox2Mesh_HDRP` and `Vox2Mesh_BuiltIn`.
-To see the materials on the list, you may need to press the eye icon in the top right corner of the window. 
-<br/>\<Image TBA\><br/><br/>
+To see the materials on the list, you may need to press the eye icon in the top right corner of the window.  
+![Mesh Renderer component](./usage_4.png)
+
+- Vox2Mesh features baked ambient occlusion. You can configure it in the inspector, after selecting a .vox file.  
+![Mesh Filter component](./usage_5.png)
 
 ## Compatibility
 - Unity 2021.3+
