@@ -19,7 +19,6 @@
 - To display its colors, add a material to a Mesh Renderer component.  
 ![Mesh Renderer component](./usage_3.png)  
 The package comes with a different material for each render pipeline.
-Their names are `Vox2Mesh_URP`, `Vox2Mesh_HDRP` and `Vox2Mesh_BuiltIn`.
 To see the materials on the list, you may need to press the eye icon in the top right corner of the window.  
 ![Mesh Renderer component](./usage_4.png)
 
