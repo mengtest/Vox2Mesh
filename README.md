@@ -16,13 +16,12 @@
 - To display a mesh, simply drag it into a Mesh Filter component.  
 ![Mesh Filter component](./usage_2.png)
 
-- To display its colors, add a material to a Mesh Renderer component.  
+- To display its colors, add a material to a Mesh Renderer component. The package comes with a different material for each render pipeline.  
 ![Mesh Renderer component](./usage_3.png)  
-The package comes with a different material for each render pipeline.
 To see the materials on the list, you may need to press the eye icon in the top right corner of the window.  
 ![Mesh Renderer component](./usage_4.png)
 
-- Vox2Mesh features baked ambient occlusion. You can configure it in the inspector, after selecting a .vox file.  
+- Vox2Mesh also features a baked ambient occlusion system. You can configure it in the inspector, after selecting a .vox file.  
 ![Mesh Filter component](./usage_5.png)
 
 ## Compatibility
