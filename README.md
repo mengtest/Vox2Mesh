@@ -8,6 +8,8 @@
 1. In the Unity Editor, select **Window > Package Manager**.
 2. Press the ➕ icon, then select **Add package from git URL...**
 3. Paste `https://github.com/pixldev/Vox2Mesh.git`, then press **Add**.
+  
+*Also available on [OpenUPM](https://openupm.com/packages/com.pixl.vox2mesh/)*
 
 ## Usage
 - After installing the package, all .vox files will behave like meshes automatically.  
